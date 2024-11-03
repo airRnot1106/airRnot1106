@@ -1,16 +1,38 @@
-## Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=airRnot1106&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airRnot1106&layout=compact&hide=html,css" />
+</a>
 
-<!--
-**airRnot1106/airRnot1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+	"name": "airRnot",
+	"location": "Japan",
+	"website": "https://airrnot.dev",
+	"job": "frontend engineer",
+	"device": "MacBook Air M2 2022",
+	"editor": [
+		"Neovim",
+		"VSCode"
+	],
+	"terminal": [
+		"WezTerm"
+	],
+	"favorite": {
+		"languages": [
+			"TypeScript",
+			"Nix"
+		],
+		"frameworks_libraries": [
+			"Next.js",
+			"Astro",
+			"TailwindCSS"
+		]
+	},
+	"hobbies": [
+		"dotfiles bonsai",
+		"DTM"
+	]
+}
+```
