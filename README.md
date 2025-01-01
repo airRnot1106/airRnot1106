@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua   9 mins          ███████████████████████▓░   94.66 %
-Nix   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
