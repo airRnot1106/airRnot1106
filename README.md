@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nix          1 hr 30 mins    █████████████████████▒░░░   85.79 %
-YAML         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
